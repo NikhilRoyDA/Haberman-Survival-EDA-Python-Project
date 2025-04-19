@@ -8,7 +8,13 @@ This project performs an **Exploratory Data Analysis (EDA)** on the **Haberman�
   - `Age` (Patient’s age at operation)  
   - `Year` (Year of operation, 1958-1969)  
   - `Nodes` (Number of lymph nodes detected)  
-  - `Survival` (1 = Survived ≥5 years, 2 = Died within 5 years)  
+  - `Survival` (1 = Survived ≥5 years, 2 = Died within 5 years)
+
+---
+
+## 📂 Project Files : [Kaggle Dataset](https://www.kaggle.com/datasets/gilsousa/habermans-survival-data-set/data)
+
+---
 
 ## **🔍 Key Analyses**  
 ### **1️⃣ Univariate Analysis**  
