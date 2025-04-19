@@ -1,3 +1,5 @@
+# 💡 Survival Analysis on the Haberman Dataset
+
 ## **📌 Project Overview**  
 This project performs an **Exploratory Data Analysis (EDA)** on the **Haberman’s Survival Dataset**, analyzing factors influencing breast cancer patient survival post-surgery.  
 
@@ -59,7 +61,7 @@ If you found this interesting, let’s discuss more! Connect with me on
 - **Portfolio**: [DataSciencePortfol.io](https://www.datascienceportfol.io/nikhilroy744)  
 - **LinkedIn**: [Nikhil Kumar Roy](https://www.linkedin.com/in/nikhil-kumar-roy/)    
 
-#PowerBI #DataAnalytics #HealthcareInsights #LifeExpectancy #DataStorytelling #DataScience  
+#Python #DataScience #EDA #HealthcareAnalytics #HabermanDataset #DataVisualization #Pandas #Seaborn #Matplotlib #DataAnalysis #PortfolioProject 
 
 ---
 
