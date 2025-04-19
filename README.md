@@ -1,4 +1,4 @@
-# 💡 Survival Analysis on the Haberman Dataset
+# 💉💊 Haberman’s Survival EDA – Predicting Breast Cancer Survival🩺🏥
 
 ## **📌 Project Overview**  
 This project performs an **Exploratory Data Analysis (EDA)** on the **Haberman’s Survival Dataset**, analyzing factors influencing breast cancer patient survival post-surgery.  
