@@ -53,3 +53,14 @@ This kind of analysis can help:
 - Design patient-centered healthcare models
 
 ---
+
+## 🔗 **Let’s Connect!**  
+If you found this interesting, let’s discuss more! Connect with me on
+- **Portfolio**: [DataSciencePortfol.io](https://www.datascienceportfol.io/nikhilroy744)  
+- **LinkedIn**: [Nikhil Kumar Roy](https://www.linkedin.com/in/nikhil-kumar-roy/)    
+
+#PowerBI #DataAnalytics #HealthcareInsights #LifeExpectancy #DataStorytelling #DataScience  
+
+---
+
+### 🌟 If you find this project interesting, give it a ⭐ and let me know your thoughts!  
