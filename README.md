@@ -27,6 +27,29 @@ This project performs an **Exploratory Data Analysis (EDA)** on the **Haberman�
 - **Early detection** (fewer lymph nodes) improves survival.  
 - **Dataset imbalance** (73% survival) may require resampling for ML models.  
 
-## **🛠 Tools Used**  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Statistical Analysis (PDF, CDF, ECDF)  
+## 🛠️ Tools & Libraries Used
+
+- Python 🐍
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 💡 Key Learnings
+
+- Data storytelling is just as important as technical analysis.
+- Real-world data is messy, biased, and sometimes emotional.
+- Combining visuals + empathy creates meaningful insights.
+
+---
+
+## 📈 Business Application
+
+This kind of analysis can help:
+- Hospitals identify **high-risk patients**
+- Optimize follow-up strategies
+- Design patient-centered healthcare models
+
+---
